@@ -1,38 +1,23 @@
-STRML.net
+rakeshrnair.in
 =========
 
-Samuel Reed
-Frontend / NodeJS Developer
+Rakesh R Nair
+MTech scholar @ NIT Calicut
 
 Contact
 -------
 
-* STRML on irc.freenode.net
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
+* rakeshrnair.india@gmail.com
+
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
+
 
 Open Source
 -----------
 
-* OpenBazaar
-* JSXHint
-* btchip-signing-tools
-* react-grid-layout
-* react-localstorage
-* react-router-component
-* react-resizable
-* textFit
-* backbone.queryRouter
-* backbone.layoutManager
-* mongoose-filter-denormalize
 
 Collaboration
 -------------
